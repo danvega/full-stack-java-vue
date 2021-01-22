@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>dev.danvega</groupId>
-    <artifactId>template</artifactId>
+    <artifactId>fsjava</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>template</name>
+    <name>full-stack-java-vue</name>
     <description>Spring Boot + Vue Starter Template</description>
 
     <properties>
